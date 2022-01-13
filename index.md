@@ -12,6 +12,14 @@ The nervous system can be divided into 2 major subdivisions:
   
 NB: The peripheral nervous system(PNS) connects the CNS to the rest of the body.
 
+```
+Flow diagram here....
+```
+
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
