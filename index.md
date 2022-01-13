@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Introduction to Neuroscience
 
 You can use the [editor on GitHub](https://github.com/rayotoo/Neuroscience.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Nervous System
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The nervous system can be divided into 2 major subdivisions:
+  1. The central nervous system (CNS)
+  2. The peripheral nervous system (PNS)
+  
+NB: The peripheral nervous system(PNS) connects the CNS to the rest of the body.
 
 ```markdown
 Syntax highlighted code block
