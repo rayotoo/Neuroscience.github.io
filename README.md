@@ -6,7 +6,7 @@ very useful during my study.
 I hope you enjoy you study and I wish you the very best in your academic pursuits.
 This tutorial/short course is divided into 4 parts and is structured as follow.
 
-- Sensory Systems
-- Motor Systems
-- Regulatory Systems
-- Behavioural and Cognitive Neuroscience
+- Introduction to Sensory Systems
+- Introduction to Motor Systems
+- Introduction to Regulatory Systems
+- Introduction to Behavioural and Cognitive Neuroscience
