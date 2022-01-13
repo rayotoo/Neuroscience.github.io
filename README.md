@@ -3,10 +3,11 @@ This Page was created while I took my Basic Neuroscience class. The goal here is
 what was helpful and worked for me so others can also benefit from my "summary" or tutorial. I in addition add links to sites and other resources I found 
 very useful during my study. 
 
-I hope you enjoy you study and I wish you the very best in your academic pursuits.
-This tutorial/short course is divided into 4 parts and is structured as follow.
+This tutorial/short course is divided into 4 parts and is structured with their various subparts as follow.
 
 - Introduction to Sensory Systems
 - Introduction to Motor Systems
 - Introduction to Regulatory Systems
 - Introduction to Behavioural and Cognitive Neuroscience
+
+I hope you enjoy you study and I wish you the very best in your academic pursuits.
