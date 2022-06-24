@@ -17,7 +17,6 @@ Flow diagram here....
 ```
 
 ```markdown
-
 [Link](url) and ![Image](src)
 ```
 
