@@ -20,10 +20,10 @@ Flow diagram here....
 [Link](url) and ![Image](src)
 ```
 
-# Autonomic Nervous system
+# 1. Autonomic Nervous system
 
-## 1. Sympathetic part of the autonomic nervous is a "flight & flight system"- explain.
-### Solution.
+## Why the Sympathetic part of the autonomic nervous is a "flight & flight system".
+
 The sympathetic part of the autonomic nervous system is considered a “flight and fight” system
 basically because it is organized to mobilize the body for activity. Upon the perception of a threat,
 the nerve fibers of the autonomic system get activated and the part of the brain that is involved in
@@ -49,12 +49,12 @@ state kicks in.
 
 ## Central Control of Respiration - Central control of the Digestive System Consciousness and Sleep
 
-## 1. Explain the possible reasons why breathing is adversely affected in COVID-19 and search the
+## Possible reasons why breathing is adversely affected in COVID-19 and search the
 literature for a possible mechanism of viral infection of the cardiorespiratory center in the
 brainstem.
 
 ### Solution
-+ a. One inhales the virus, and it gets into the mucous membrane of one’s throat. The virus then
++ One inhales the virus, and it gets into the mucous membrane of one’s throat. The virus then
 moves down the respiratory tract which includes airways of the lungs, nose and throat. These
 airways have the ACE2 receptor which is known to be the functional receptor of SARS-CoV.
 The observed breathing defects seen in COVID patients can be attributed to two main lung
@@ -76,8 +76,7 @@ complex. The pre-Bötzinger complex (preBötC) is a neural network responsible f
 during respiratory activity (Smith et. al,1991). This in effect causes the breakdown of the
 respiratory center of the brain which leads to death in some cases.
 
-## 3. What are the arguments in support of considering the enteric nervous system as our second brain
-and explain how SARS-CoV2 affects the digestive system?
+## 3. Arguments in support of considering the enteric nervous system as our second brain and explain how SARS-CoV2 affects the digestive system?
 
 Solution
 + The enteric nervous system (ENS) is a division of the autonomic nervous system whose
@@ -156,7 +155,6 @@ might be involved, the neuroendocrine circuit, and their functions. When you
 describe the neuroendocrine circuit, please list all parts/cells involved. Also, how
 does the circuit communicate.
 
-Solution
 The arcuate nucleus (ARC) of the hypothalamus is particularly regarded as a critical
 platform that integrates circulating signals of hunger and satiety reflecting energy stores
 and nutrient availability. A lesion in the arcuate nucleus could principally result in
@@ -201,12 +199,8 @@ pressure (Caldwell & Young, 2006), thus affects the circulatory system.
 These hormones are then stored in the secretory granules transported via the stalk to the
 pars nervosa. Oxytocin and vasopressin are finally released to the body.
 
-## 3. A. Identify two factors/hormones that signal satiety (anorexigenic). Describe the
-circuitry involved in this signaling and the source and target cells.
-B. Identify two hormones that motivate us to eat (orexigenic). Describe the
-circuitry used by each including the target cells.
+## 3. A. Identify two factors/hormones that signal satiety (anorexigenic). Describe the circuitry involved in this signaling and the source and target cells. B. Identify two hormones that motivate us to eat (orexigenic). Describe the circuitry used by each including the target cells.
 
-Solution
 + Leptin and insulin are considered anorexigenic (appetite suppressant).
 i. Leptin is secreted by adipose cells in proportion to overall body fat mass. A wellfed
 state leads to increase fat which in turn leads to an increased leptin secretion.
@@ -218,6 +212,7 @@ and release. Leptin levels thus, indicate overall fasting or feeding state over 
 days. Leptin further, inhibits the stimulation of the lateral hypothalamus which in
 effect inhibits the effects of ghrelin. The main effect(target) of leptin is the arcuate
 nucleus.
+
 ii. Insulin is secreted by the pancreas, and it exerts its effect on olfactory bulbs and
 arcuate nucleus. When there is an increase in insulin secretion, the NPY-secreting
 cells of the arcuate nucleus are inhibited which consequently suppresses food
@@ -239,12 +234,8 @@ targets the arcuate nucleus and acts by inhibiting the appetite-stimulating
 NYP-secreting neurons of the arcuate nucleus.
 
 
-## 4. The hypothalamus integrates feedback loops from target organs. Give an example
-of positive feedback and an example of negative feedback. Name the hormones
-involved in each and completely describe the anatomical circuits including
-releasing factors or neural inputs, pituitary cells/hormones, and target cells. Also,
-describe the general function of each of the two feedback circuits that you chose.
-Solution
+## 4. The hypothalamus integrates feedback loops from target organs. Give an example of positive feedback and an example of negative feedback. Name the hormones involved in each and completely describe the anatomical circuits including releasing factors or neural inputs, pituitary cells/hormones, and target cells. Also, describe the general function of each of the two feedback circuits that you chose.
+
 + The release and response of oxytocin during childbirth is an example of a Positive
 feedback. The onset of the contraction of the uterus signals the body to release oxytocin.
 Oxytocin then travels to the uterus where it further stimulates contraction. The resulting
@@ -291,20 +282,17 @@ Two clinical syndromes associated with damage to the Ventral Stream pathway are 
 
 # Attention.
 
-## A.	What is the difference between the exogenous and endogenous attentional systems?
+## A.	The difference between the exogenous and endogenous attentional systems.
 
-### Solution
-The endogenous attentional system is driven by internal motivations and processes; our ability to voluntarily monitor information at a given location. It is of two types: covert and overt. The covert type is indirect, when you look at something from the corner of your eye without directly looking at it. Overt on the other hand is direct when you focus your attention on a target or location.
++ The endogenous attentional system is driven by internal motivations and processes; our ability to voluntarily monitor information at a given location. It is of two types: covert and overt. The covert type is indirect, when you look at something from the corner of your eye without directly looking at it. Overt on the other hand is direct when you focus your attention on a target or location.
 
-The exogenous attentional system on the other hand is driven by response to stimulus characteristics when something commands one’s attention; an involuntary, automatic orienting response to a location where a sudden stimulation has occurred. It is of two types: automatic and effortful. The automatic type refers to stimulus that grabs one’s attention. An example is something that really stands out. Effortful on the other hand, is when you look hard and search for something in the field of stimuli. It requires a lot of energy. 
++ The exogenous attentional system on the other hand is driven by response to stimulus characteristics when something commands one’s attention; an involuntary, automatic orienting response to a location where a sudden stimulation has occurred. It is of two types: automatic and effortful. The automatic type refers to stimulus that grabs one’s attention. An example is something that really stands out. Effortful on the other hand, is when you look hard and search for something in the field of stimuli. It requires a lot of energy. 
 
 
 # Memory.
 ## A.	Describe Papez Circuit in terms of its anatomical divisions. 
 ### Solution
 The Papez circuit begins and ends with the hippocampus. The entorhinal cortex (in the anterior parahippocampal gyrus) projects to the hippocampus. The hippocampus projects via the fornix to the mammillary nuclei. The mammillary nuclei project to the anterior thalamic nuclei via the mammillothalamic fasciculus. The anterior thalamic nuclei project to the cingulate gyrus. Finally, the cingulate gyrus projects back to the entorhinal cortex via the cingulum to close the Papez circuit loop.
-
-
 
 References
 Fisch, A. (2012). Neuroanatomy: Draw It to Know It. United Kingdom: Oxford University Press, USA.
@@ -314,7 +302,7 @@ The Oxford Handbook of Attention. (2014). United Kingdom: OUP Oxford.
 
 # The Motor System
 ## 1. Discuss how an abstract thought is converted into a voluntary action.
-Solution
+
 This process can be divided into three phases, Planning (of the idea), Initiation and Execution.
 In the planning phase, the movements (abstract thoughts) are planned in the cortex, as well as
 the basal ganglia and part of the cerebellum. In the initiation phase, the commands are then
@@ -326,7 +314,7 @@ information is relayed back via sensory nerves to the cerebellum and the motor c
 movements are adjusted to make it smooth and precise.
 
 ##  2. What are effects of decortication and decerebration?
-Solution
+
 Decorticate and decerebrate posturing are abnormal posturing responses typically to noxious
 stimuli.
 In decortication, there is decorticate posturing in which:
@@ -338,8 +326,8 @@ a. Lower extremities are extended with toes pointed inward.
 b. Upper extremities extended with fingers flexed and forearms pronate.
 c. The neck and head are extended.
 
-## 4. Discuss the role of cerebellum in controlling the motor activity.
-Solution
+## 4. The role of cerebellum in controlling the motor activity.
+
 Historically, the cerebellum has been considered a motor structure. In that, a cerebellar damage
 leads to a marked impairments of motor control. The cerebellum works with other motor
 structures to modify the motor commands of the descending pathways to make movements
