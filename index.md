@@ -49,11 +49,8 @@ state kicks in.
 
 ## Central Control of Respiration - Central control of the Digestive System Consciousness and Sleep
 
-## Possible reasons why breathing is adversely affected in COVID-19 and search the
-literature for a possible mechanism of viral infection of the cardiorespiratory center in the
-brainstem.
+## Possible reasons why breathing is adversely affected in COVID-19 and search the literature for a possible mechanism of viral infection of the cardiorespiratory center in the brainstem.
 
-### Solution
 + One inhales the virus, and it gets into the mucous membrane of one’s throat. The virus then
 moves down the respiratory tract which includes airways of the lungs, nose and throat. These
 airways have the ACE2 receptor which is known to be the functional receptor of SARS-CoV.
@@ -78,7 +75,6 @@ respiratory center of the brain which leads to death in some cases.
 
 ## 3. Arguments in support of considering the enteric nervous system as our second brain and explain how SARS-CoV2 affects the digestive system?
 
-Solution
 + The enteric nervous system (ENS) is a division of the autonomic nervous system whose
 component neurons lie within the walls of the digestive organs (esophagus, stomach, intestines,
 pancreas, gall bladder, and pancreato-biliary ducts). The enteric nervous system contains entire
@@ -173,15 +169,9 @@ GnRH causes the pituitary gland in the brain to make and secrete the luteinizing
 hormone (LH) and follicle-stimulating hormone (FSH). It is responsible for the
 production of testosterone in males
 
-## 2. Discuss the impact of a lesion in the Paraventricular nucleus. Assume that the
-lesion destroyed all cell bodies, including those that project to the median
-eminence. Choose two major systems that would be affected and identify all
-hormones that might be involved including the neuroendocrine circuit, and their
-functions. When you describe the neuroendocrine circuit, please list all parts/cells
-involved. Also, how does the circuit communicate.
+## Discuss the impact of a lesion in the Paraventricular nucleus. Assume that the lesion destroyed all cell bodies, including those that project to the median eminence. Choose two major systems that would be affected and identify all hormones that might be involved including the neuroendocrine circuit, and their functions. When you describe the neuroendocrine circuit, please list all parts/cells involved. Also, how does the circuit communicate.
 
-Solution.
-A lesion in the Paraventricular nucleus (PVN) could lead to hyperphagia, polydipsia,
+  A lesion in the Paraventricular nucleus (PVN) could lead to hyperphagia, polydipsia,
 poly urea and obesity as PVN neurons are important for the inhibitory control of food
 intake. In that, the PVN secretes oxytocin and vasopressin that increases the amount of
 solute-free water reabsorbed back into the circulation from the filtrate in the kidney
@@ -192,7 +182,7 @@ When the PVN is lesioned, two major systems that might be affected are the circu
 system and reproductive systems. The hormones that might be involved in the
 circulatory system is vasopressin and that which is involved in the reproductive system
 is oxytocin.
-Oxytocin is known to stimulate uterine wall contractions and stimulate milk let-down in
+  Oxytocin is known to stimulate uterine wall contractions and stimulate milk let-down in
 the mammary glands, thus affects the reproductive system. Vasopressin also constricts
 arterioles, which increases peripheral vascular resistance and raises arterial blood
 pressure (Caldwell & Young, 2006), thus affects the circulatory system.
@@ -269,20 +259,22 @@ Aug;96(2):201-26. doi: 10.1079/bjn20061787. PMID: 16923214
 
 
 # Object perception and Spatial Cognition.
-A.	Two processing pathways originate from primary visual cortex.  Please name and describe each pathway, discuss the processing stages and divisions in each pathway, discuss the properties of neurons at various stages and identify functions associated with them.  Finally, identify two clinical syndromes that are associated with damage to each pathway (a total of four).
+## Two processing pathways originate from primary visual cortex.  Please name and describe each pathway, discuss the processing stages and divisions in each pathway, discuss the properties of neurons at various stages and identify functions associated with them.  Finally, identify two clinical syndromes that are associated with damage to each pathway (a total of four).
 
-## Solution
-The two processing pathways are the ventral stream or “What pathway” and the dorsal stream or “Where pathway”. 
-The ventral stream or “what pathway”, so called due to its role in identifying objects is located at the junction of the occipital and temporal lobes. It carries information from the primary visual cortex to the temporal lobe.
+The two processing pathways are: 
+1. The ventral stream or “What pathway” 
+2. The dorsal stream or “Where pathway”. 
+
++ The ventral stream or “what pathway”, so called due to its role in identifying objects is located at the junction of the occipital and temporal lobes. It carries information from the primary visual cortex to the temporal lobe.
 The neurons in the parietal association cortex and superior and middle temporal visual association cortex (posterior parietal lobe and middle superior temporal gyrus and the superior part of the posterior inferior and middle temporal gyrus) have binocular receptive fields and process P-channel information about object location and M-channel information about object movement.
 
-The dorsal stream or “Where pathway”, so called because of its involvement in analyzing the movement of identified objects. This pathway is thought to be involved with perceiving motion and spatial relationships between objects in the visual field. It comprises of several cortical areas, including the medial temporal area (MT or V5), the medial superior temporal area (MST), and the ventral and lateral intraparietal areas (VIP and LIP).
++ The dorsal stream or “Where pathway”, so called because of its involvement in analyzing the movement of identified objects. This pathway is thought to be involved with perceiving motion and spatial relationships between objects in the visual field. It comprises of several cortical areas, including the medial temporal area (MT or V5), the medial superior temporal area (MST), and the ventral and lateral intraparietal areas (VIP and LIP).
 At early stages in the ventral stream pathway, neurons are sensitive to specific types of visual stimulation. At later stages, neurons are increasingly sensitive to illusory contours which are implied by combinations of visual stimulation. At higher tiers of processing, silent areas surrounding the receptive fields of neurons augment the activity of stimuli in the receptive field – (i.e., figure/ground segregation). Neurons in the anterior 2/3rds of IT are sensitive to complex feature arrangements like objects and faces. Face selective neurons (patches) can be found in the lower bank of the STS in primates 
-Two clinical syndromes associated with damage to the Ventral Stream pathway are Agnosia and alexia. Two clinical syndromes associated with damage to the dorsal Stream pathway are Balint’s Syndrome and akinetopsia.
+
++ Two clinical syndromes associated with damage to the Ventral Stream pathway are Agnosia and alexia. Two clinical syndromes associated with damage to the dorsal Stream pathway are Balint’s Syndrome and akinetopsia.
 
 # Attention.
-
-## A.	The difference between the exogenous and endogenous attentional systems.
+## The difference between the exogenous and endogenous attentional systems.
 
 + The endogenous attentional system is driven by internal motivations and processes; our ability to voluntarily monitor information at a given location. It is of two types: covert and overt. The covert type is indirect, when you look at something from the corner of your eye without directly looking at it. Overt on the other hand is direct when you focus your attention on a target or location.
 
@@ -290,8 +282,8 @@ Two clinical syndromes associated with damage to the Ventral Stream pathway are 
 
 
 # Memory.
-## A.	Describe Papez Circuit in terms of its anatomical divisions. 
-### Solution
+## Describe Papez Circuit in terms of its anatomical divisions. 
+
 The Papez circuit begins and ends with the hippocampus. The entorhinal cortex (in the anterior parahippocampal gyrus) projects to the hippocampus. The hippocampus projects via the fornix to the mammillary nuclei. The mammillary nuclei project to the anterior thalamic nuclei via the mammillothalamic fasciculus. The anterior thalamic nuclei project to the cingulate gyrus. Finally, the cingulate gyrus projects back to the entorhinal cortex via the cingulum to close the Papez circuit loop.
 
 References
@@ -301,9 +293,13 @@ The Oxford Handbook of Attention. (2014). United Kingdom: OUP Oxford.
 
 
 # The Motor System
-## 1. Discuss how an abstract thought is converted into a voluntary action.
+## How an abstract thought is converted into a voluntary action.
 
-This process can be divided into three phases, Planning (of the idea), Initiation and Execution.
+This process can be divided into three phases;
+1. Planning (of the idea)
+2. Initiation 
+3. Execution.
+
 In the planning phase, the movements (abstract thoughts) are planned in the cortex, as well as
 the basal ganglia and part of the cerebellum. In the initiation phase, the commands are then
 relayed via the corticospinal tracts (from the cortex to the spinal nerves) and the corticobulbar
@@ -313,20 +309,21 @@ spindle, Golgi tendon organ, joint receptors, and those in the skin are stimulat
 information is relayed back via sensory nerves to the cerebellum and the motor cortex, and the
 movements are adjusted to make it smooth and precise.
 
-##  2. What are effects of decortication and decerebration?
+##  Effects of decortication and decerebration?
 
 Decorticate and decerebrate posturing are abnormal posturing responses typically to noxious
 stimuli.
-In decortication, there is decorticate posturing in which:
++ In decortication, there is decorticate posturing in which:
 a. Upper limbs are flexed
 b. lower limbs are extended with toes pointed slightly inward
 c. The head is extended.
-In decerebration, there will be decerebrate posturing in which:
+
++ In decerebration, there will be decerebrate posturing in which:
 a. Lower extremities are extended with toes pointed inward.
 b. Upper extremities extended with fingers flexed and forearms pronate.
 c. The neck and head are extended.
 
-## 4. The role of cerebellum in controlling the motor activity.
+## The role of cerebellum in controlling the motor activity.
 
 Historically, the cerebellum has been considered a motor structure. In that, a cerebellar damage
 leads to a marked impairments of motor control. The cerebellum works with other motor
