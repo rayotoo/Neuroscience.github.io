@@ -1,8 +1,6 @@
 ## Welcome to Introduction to Neuroscience
 
-You can use the [editor on GitHub](https://github.com/rayotoo/Neuroscience.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This platform is to present my introduction to neuroscience course summary, shorts notes and solutions that were useful during the course., Feel free to send your comments and suggestions the the github issuse pages for this site.
 
 ### Nervous System
 
