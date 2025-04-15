@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quote of the Day</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f9f9f9;
+      padding: 40px;
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+    }
+    .quote {
+      margin-top: 20px;
+      font-size: 1.5em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>💬 Quote of the Day</h1>
+  <div class="quote" id="quote">Loading...</div>
+
+  <script>
+    fetch('activity.txt')
+      .then(response => response.text())
+      .then(data => {
+        const lines = data.trim().split('\n');
+        const lastLine = lines[lines.length - 1];
+        const quote = lastLine.substring(lastLine.indexOf('💻') + 2);
+        document.getElementById('quote').innerText = quote;
+      })
+      .catch(error => {
+        document.getElementById('quote').innerText = "Could not load quote.";
+      });
+  </script>
+</body>
+</html>
